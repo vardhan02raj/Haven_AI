@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+SQLAlchemy
+bcrypt
+PyJWT
+waitress
+litellm
+json-repair
