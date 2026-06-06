@@ -2,6 +2,11 @@
 
 Haven AI is a next-generation real estate platform that leverages artificial intelligence to provide personalized property discovery and interactive academy services.
 
+## Features
+- Property Search
+- AI Recommendations
+- User Authentication
+- AWS Deployment
 ## Architecture
 
 The project is built with a modern, modular architecture:
